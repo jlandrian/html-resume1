@@ -1,0 +1,30 @@
+/*This styles the "contact" ID*/
+#contact{
+	background-color: #8F948E;
+	text-align: center;
+	font-family: Verdana, sans-serif;
+
+}
+/*This styles thie "first" class*/
+.first{
+	text-align: center;
+	font-family: Verdana, sans-serif;
+	font-size: 2em;
+}
+/*This makes the links red when hovered over with the mouse*/
+a:hover{
+	color: #C92639;
+}
+#professional{
+	background-color: #ADACAC;
+}
+/*styles the ul tags*/
+ul {
+	font-family: Verdana, sans-serif;
+}
+/*this styles the tables!*/
+table {
+	background-color: #8F948E;
+	border: 3px solid black;
+
+}
